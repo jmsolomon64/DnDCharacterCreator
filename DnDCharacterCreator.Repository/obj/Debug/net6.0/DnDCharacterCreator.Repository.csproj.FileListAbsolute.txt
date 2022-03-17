@@ -1,0 +1,12 @@
+E:\Repos\ElevenFiftyAcademy129\efaCSharpProjects\DnDCharacterCreator\DnDCharacterCreator.Repository\bin\Debug\net6.0\DnDCharacterCreator.Repository.deps.json
+E:\Repos\ElevenFiftyAcademy129\efaCSharpProjects\DnDCharacterCreator\DnDCharacterCreator.Repository\bin\Debug\net6.0\DnDCharacterCreator.Repository.dll
+E:\Repos\ElevenFiftyAcademy129\efaCSharpProjects\DnDCharacterCreator\DnDCharacterCreator.Repository\bin\Debug\net6.0\ref\DnDCharacterCreator.Repository.dll
+E:\Repos\ElevenFiftyAcademy129\efaCSharpProjects\DnDCharacterCreator\DnDCharacterCreator.Repository\bin\Debug\net6.0\DnDCharacterCreator.Repository.pdb
+E:\Repos\ElevenFiftyAcademy129\efaCSharpProjects\DnDCharacterCreator\DnDCharacterCreator.Repository\obj\Debug\net6.0\DnDCharacterCreator.Repository.csproj.AssemblyReference.cache
+E:\Repos\ElevenFiftyAcademy129\efaCSharpProjects\DnDCharacterCreator\DnDCharacterCreator.Repository\obj\Debug\net6.0\DnDCharacterCreator.Repository.GeneratedMSBuildEditorConfig.editorconfig
+E:\Repos\ElevenFiftyAcademy129\efaCSharpProjects\DnDCharacterCreator\DnDCharacterCreator.Repository\obj\Debug\net6.0\DnDCharacterCreator.Repository.AssemblyInfoInputs.cache
+E:\Repos\ElevenFiftyAcademy129\efaCSharpProjects\DnDCharacterCreator\DnDCharacterCreator.Repository\obj\Debug\net6.0\DnDCharacterCreator.Repository.AssemblyInfo.cs
+E:\Repos\ElevenFiftyAcademy129\efaCSharpProjects\DnDCharacterCreator\DnDCharacterCreator.Repository\obj\Debug\net6.0\DnDCharacterCreator.Repository.csproj.CoreCompileInputs.cache
+E:\Repos\ElevenFiftyAcademy129\efaCSharpProjects\DnDCharacterCreator\DnDCharacterCreator.Repository\obj\Debug\net6.0\DnDCharacterCreator.Repository.dll
+E:\Repos\ElevenFiftyAcademy129\efaCSharpProjects\DnDCharacterCreator\DnDCharacterCreator.Repository\obj\Debug\net6.0\ref\DnDCharacterCreator.Repository.dll
+E:\Repos\ElevenFiftyAcademy129\efaCSharpProjects\DnDCharacterCreator\DnDCharacterCreator.Repository\obj\Debug\net6.0\DnDCharacterCreator.Repository.pdb

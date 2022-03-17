@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "DnDCharacterCreator.ConsoleApp/1.0.0": {
+        "dependencies": {
+          "DnDCharacterCreator.Repository": "1.0.0"
+        },
+        "runtime": {
+          "DnDCharacterCreator.ConsoleApp.dll": {}
+        }
+      },
+      "DnDCharacterCreator.Repository/1.0.0": {
+        "runtime": {
+          "DnDCharacterCreator.Repository.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DnDCharacterCreator.ConsoleApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DnDCharacterCreator.Repository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
